@@ -28,7 +28,7 @@ This goal was achieved in the following steps.
 The average temperature data from the year 1750 till 2014 for a German city Munich is compared with the global temperature data in the same time frame. I found an increasing trend in the average temperature of entire world from begining of 20th century.
 The moving average of temperature is considered for plotting the data as shown in below figure.
 
-![Temperature Trends](https://github.com/17rsuraj/data-analyst/blob/master/Explore%20Weather%20Trends/Temperature%20trends.JPG)
+![Temperature Trends](https://github.com/Tarik-Assou/Explore-Weather-Trends/blob/main/Temperature.JPG)
 
 Additionally, box plots, scatter plots and bar plots are created to get more insights into the data
 
