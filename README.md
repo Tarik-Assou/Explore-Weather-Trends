@@ -1,6 +1,6 @@
 # Project : Explore Weather Trends
 
-*Submitted by: Suraj Gurav*
+*Submitted by: Tarik Assou*
 
 This is the first project in [Udacity Data Analyst Nanodegree Program](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
